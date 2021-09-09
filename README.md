@@ -3,7 +3,7 @@ This is a simple website to illustrate the use of JSONPOWERDB  database.
 
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
 
-### About Projext:
+### About Project:
 
 -In this project i tried to use CRUD Operation-PUT to save an employee id,employee name and employee email address in my JsonPowerDB database..For learning More about JSONPOWERDB  please refer to this link ([DOCUMENTATION LINK](http://login2explore.com/jpdb/docs.html)) 
 
